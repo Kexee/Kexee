@@ -50,12 +50,12 @@ Se você está curioso sobre meus projetos, sinta-se à vontade para explorar me
   title="GitHub Stats" 
   height="150" 
   style="padding-right: 10px" 
-  src="https://github-readme-stats.vercel.app/api?username=Kexee&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-BR" 
+  src="https://github-readme-stats.vercel.app/api?username=Kexee&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide=contribs" 
 /><img
   align="left" 
   alt="GitHub Stats" 
   title="GitHub Stats"
   height="150"
   style="padding-right: 10px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kexee&theme=github_dark&layout=compact&custom_title=Tecnologias" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kexee&theme=github_dark&locale=pt-br" 
 />
