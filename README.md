@@ -23,8 +23,6 @@ Se você está curioso sobre meus projetos, sinta-se à vontade para explorar me
 
 ### 🤖 Linguagens e Tecnologias
 
-
-
 <img alt="JS" title="JS" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img alt="Python" title="Python" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="Node.js" title="Node.js" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -37,25 +35,3 @@ Se você está curioso sobre meus projetos, sinta-se à vontade para explorar me
 <img alt="Postgres" title="Postgres" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img alt="AWS" title="AWS" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img alt="Git" title="Git" align="left" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br>
-<br>
-<br>
-
-### 📊 Estatísticas
-
-<img
-  align="left"
-  alt="GitHub Stats" 
-  title="GitHub Stats" 
-  height="150" 
-  style="padding-right: 10px" 
-  src="https://github-readme-stats.vercel.app/api?username=Kexee&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br&hide=contribs" 
-/><img
-  align="left" 
-  alt="GitHub Stats" 
-  title="GitHub Stats"
-  height="150"
-  style="padding-right: 10px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kexee&theme=github_dark&locale=pt-br" 
-/>
